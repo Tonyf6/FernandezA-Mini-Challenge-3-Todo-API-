@@ -126,3 +126,4 @@
 /Users/tone_ayeee/Desktop/TestFullstack/api/obj/Debug/net8.0/api.pdb
 /Users/tone_ayeee/Desktop/TestFullstack/api/obj/Debug/net8.0/api.genruntimeconfig.cache
 /Users/tone_ayeee/Desktop/TestFullstack/api/obj/Debug/net8.0/ref/api.dll
+/Users/tone_ayeee/Desktop/TestFullstack/api/obj/Debug/net8.0/api.sourcelink.json
